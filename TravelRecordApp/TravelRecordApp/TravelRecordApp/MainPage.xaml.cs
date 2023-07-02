@@ -14,6 +14,10 @@ namespace TravelRecordApp
         {
             InitializeComponent();
         }
+
+        void LoginButton_Clicked(System.Object sender, System.EventArgs e)
+        {
+        }
     }
 }
 
