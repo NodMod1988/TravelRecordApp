@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ziH24pkBNK2V6nCodTjL7ebNXIXKRu1g45cdv7LfIEeAaUj5NLemJhG5W+ilUGMA8AIq0iSDqD1UwymQrdDaA==",
+  "success": true,
+  "projectFilePath": "/Users/niewerth/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/TravelRecordApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/niewerth/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/niewerth/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/niewerth/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
