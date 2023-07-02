@@ -13,7 +13,7 @@
                IsPassword="True"/>
         <Button x:Name="LoginButton"
                 Text="Login"
-                Background="3F84E5"
+                Background="#3F84E5"
                 TextColor="White"
                 Clicked="LoginButton_Clicked"/>
         
