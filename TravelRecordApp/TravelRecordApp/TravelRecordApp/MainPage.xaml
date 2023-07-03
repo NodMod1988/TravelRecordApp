@@ -7,13 +7,15 @@
                  VerticalOptions="Center">
         <Entry x:Name="emailEntry"
                Placeholder="Email"
+               TextColor="{StaticResource blueColor}"
                Keyboard="Email"/>
         <Entry x:Name="passwordEntry"
                Placeholder="Password"
+               TextColor="{StaticResource blueColor}"
                IsPassword="True"/>
         <Button x:Name="LoginButton"
                 Text="Login"
-                Background="#3F84E5"
+                Background= "{StaticResource blueColor}"
                 TextColor="White"
                 Clicked="LoginButton_Clicked"/>
         
