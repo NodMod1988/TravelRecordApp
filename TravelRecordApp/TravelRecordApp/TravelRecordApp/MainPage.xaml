@@ -15,11 +15,7 @@
                IsPassword="True"/>
         <Button x:Name="LoginButton"
                 Text="Login"
-                Background= "{StaticResource blueColor}"
-                TextColor="White"
                 Clicked="LoginButton_Clicked"/>
-        
     </StackLayout>
-
 </ContentPage>
 
