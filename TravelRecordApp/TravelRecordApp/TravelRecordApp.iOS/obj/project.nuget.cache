@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "+52u9puIvYK59Ym9aiA4Xoo7/7DnR4MoPYUzkWDZ1S4uIjTdy6jQSyts5uZ/b39S9JMJhWelys62hlAhl4G44g==",
+  "dgSpecHash": "tRiL3JQj/T539xjFfot3iEaBN1J4CF+Pd0GrZglE9Zs4NbH3Wr0xC4pvOTbSWnrcotZgfluAm8u/BUMgJ9ZU/w==",
   "success": true,
   "projectFilePath": "/Users/niewerth/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/TravelRecordApp.iOS.csproj",
   "expectedPackageFiles": [
+    "/Users/niewerth/.nuget/packages/sqlite-net-pcl/1.8.116/sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "/Users/niewerth/.nuget/packages/sqlitepclraw.bundle_green/2.0.4/sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "/Users/niewerth/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "/Users/niewerth/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.4/sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "/Users/niewerth/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/niewerth/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/niewerth/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/niewerth/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "/Users/niewerth/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
     "/Users/niewerth/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
