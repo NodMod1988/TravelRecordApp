@@ -13,6 +13,11 @@ namespace TravelRecordApp
             MainPage = new NavigationPage(new MainPage());
         }
 
+        public App(string databaseLocation)
+        {
+
+        }
+
         protected override void OnStart ()
         {
         }
