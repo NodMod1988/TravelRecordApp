@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8lyK82Kb/TSFv5vASt7VGuyTukLcle32WxEuoAup2FUNDAytvoDDAVPKaQJmsXQQBQZfaBPHsPwqnAsB9CmquQ==",
+  "dgSpecHash": "t6IDpqtQT7DuqLn9DYDlU5Tunk3nb3+FoEO99KSbUSW8u0G80lrqPrMBEboDb6Mz2JHOii12xa0VTKTs6yAnCQ==",
   "success": true,
   "projectFilePath": "/Users/niewerth/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/TravelRecordApp/TravelRecordApp.csproj",
   "expectedPackageFiles": [
@@ -16,7 +16,8 @@
     "/Users/niewerth/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/niewerth/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "/Users/niewerth/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
-    "/Users/niewerth/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "/Users/niewerth/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "/Users/niewerth/.nuget/packages/xamarin.forms.maps/5.0.0.2196/xamarin.forms.maps.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

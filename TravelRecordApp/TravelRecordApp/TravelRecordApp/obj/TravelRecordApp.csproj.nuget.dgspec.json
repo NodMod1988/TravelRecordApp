@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[5.0.0.2196, )"
             },
+            "Xamarin.Forms.Maps": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            },
             "sqlite-net-pcl": {
               "target": "Package",
               "version": "[1.8.116, )"
@@ -67,7 +71,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/Users/niewerth/Library/Caches/VisualStudio/17.0/MSBuild/5505_3/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/niewerth/Library/Caches/VisualStudio/17.0/MSBuild/438_3/RuntimeIdentifierGraph.json"
         }
       }
     }
